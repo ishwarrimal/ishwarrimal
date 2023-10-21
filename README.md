@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer with 8 years of experience in the field. I'm passionate about sharing knowledge and helping others succeed, which is why I maintain a repository called ['frontend-interview-preps'](https://github.com/ishwarrimal/frontend-interview-preps) to help aspiring developers prepare for interviews.  
+I'm a web developer with 8 years of experience in the field. I'm passionate about sharing knowledge and helping others succeed, which is why I maintain a repository called [frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps) to help aspiring developers prepare for interviews.  
 
 I also write articles on my free time in [Medium](https://ishwar-rimal.medium.com/)  
 
