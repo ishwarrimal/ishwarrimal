@@ -13,6 +13,3 @@ Thanks for stopping by my profile!
 Current Org: Intuit  
 Current Role: Senior Frontend Engineer  
 Total Year of Exp: 7+ Years.
-
-
-[![An image of @ishwarrimal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishwarrimal)](https://holopin.io/@ishwarrimal)
