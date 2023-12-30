@@ -1,14 +1,13 @@
 <h2> Hey, I am Ishwar Rimal 👋 </h2>
 
-<p>I'm a software engineer based out of Bangalore with 8 years of experience building websites and web apps.</p>
+<p>I'm a software
+engineer based out of Bangalore with 8 years of experience building websites and web apps.</p>
 <p>
-  <a href="https://stackoverflow.com/users/5088262/ishwar-rimal"><img width="30px" src="https://camo.githubusercontent.com/0a5d77511ea8eb2b843e0d721c0471cc6b23a7fd9e51c90042effe8c4c7a138c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f737461636b6f766572666c6f772e737667" alt="SO Badge"></a> 
-  <a href="https://www.linkedin.com/in/ishwar-rimal-319647b3/"><img width="30px" src="https://camo.githubusercontent.com/a12f97e0370c6c839fe198521c5536f0fb2ea4ec9005247525f5f3c2f2e91e7e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="Linkedin Badge"></a> 
-  <a href="https://twitter.com/thehumblebeing"><img width="30px" src="https://camo.githubusercontent.com/d08733f833f1456d0bb577c9455d3849f50a607b7b2a168b1e2db3192380305d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="Twitter Badge"></a> 
-  <a href="https://ishwar-rimal.medium.com/"><img width="30px" src="https://camo.githubusercontent.com/02001065692dac5975896c29f6602ea858cdeae23c0298ef9bfdcb093edc4005/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6d656469756d2e737667" alt="Medium Badge"></a> 
-  
-
-
+  <a href="https://www.linkedin.com/in/ishwar-rimal-319647b3/"><img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Badge"></a> 
+  <a href="https://ishwar-rimal.medium.com/"><img width="30px" src="https://github.com/ishwarrimal/ishwarrimal/assets/17489662/b143698d-a74c-4988-ae74-59b3da8bc781" alt="Medium Badge"></a> 
+ <a href="https://twitter.com/thehumblebeing"><img src="https://github.com/ishwarrimal/ishwarrimal/assets/17489662/c6c7d85f-3900-4ef9-933d-d5f06dee4823" alt="Twitter badge" width="30px"></a>
+ <a href="https://www.youtube.com/channel/UCm1NpJ02h-Ij8CVR2hVXZEw"><img src="https://github.com/ishwarrimal/ishwarrimal/assets/17489662/9429c152-ddb1-4a0b-8cf0-362eb3be7749" alt="youtube badge" width="30px"></a>
+ <a href="https://stackoverflow.com/users/5088262/ishwar-rimal"><img width="30px" src="https://github.com/ishwarrimal/ishwarrimal/assets/17489662/1f3a4605-97f4-4f48-89ba-4faf5fdfb6c2" alt="SO Badge"></a> 
 </p>
 
 <h3>Organizaiton</h3>
