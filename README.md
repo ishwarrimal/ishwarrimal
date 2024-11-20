@@ -19,7 +19,7 @@ Previously I have worked at companies like [Simpl](https://getsimpl.com/), [Clea
 Based on my experience of attending as well as taking multiple interviews, I have created this ultimate <a href="https://github.com/ishwarrimal/frontend-interview-preps">frontend interview preparation guide</a> to help aspiring developers prepare better for interviews.
 
 <h3>Some of my Achievements</h3>
-🧞<p><b>WishGee</b>: Built the entire end-to-end product using React, Node.js, PostgreSQL, and Firebase, achieving ₹15 lakhs in revenue within the first year. <br/>Oh hey, I have made the codebase public so that anyone aspiring to build a product can take a reference [link](https://github.com/ishwarrimal/wishgee-front-public). Feel free to fork and play around(only for learning purposes).</p>
+🧞<p><b>WishGee</b>: Built the entire end-to-end product using React, Node.js, PostgreSQL, and Firebase, achieving ₹15 lakhs in revenue within the first year. <br/>Oh hey, I have made the codebase public so that anyone aspiring to build a product can take a reference <a href="https://github.com/ishwarrimal/wishgee-front-public">Link</a>. Feel free to fork and play around(only for learning purposes).</p>
 💬<p><b>Desktop Messaging App</b>: Developed a real-time desktop messaging application with Electron.js, Node.js, and MQTT, enabling seamless communication for thousands of users.</p>
 📹<p><b>Video Players</b>: Created multiple custom video players using hls.js and video.js, optimizing streaming and playback for cross-browser compatibility.</p>
 🎤<p><b>Voice-Based Task Management UI</b>: Developed a voice-driven UI for task management using Gen AI, enhancing accessibility and user engagement.</p>
