@@ -18,11 +18,6 @@ Previously I have worked at companies like [Simpl](https://getsimpl.com/), [Clea
 <h3>Current side project</h3>
 Based on my experience of attending as well as taking multiple interviews, I have created this ultimate <a href="https://github.com/ishwarrimal/frontend-interview-preps">frontend interview preparation guide</a> to help aspiring developers prepare better for interviews.
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishwarrimal/frontend-interview-preparation&type=Date)](https://star-history.com/#ishwarrimal/frontend-interview-preparation&Date)
-
 <h3>Some of my Achievements</h3>
 🧞<p><b>WishGee</b>: Built the entire end-to-end product using React, Node.js, PostgreSQL, and Firebase, achieving ₹15 lakhs in revenue within the first year. <br/>Oh hey, I have made the codebase public so that anyone aspiring to build a product can take a reference <a href="https://github.com/ishwarrimal/wishgee-front-public">Link</a>. Feel free to fork and play around(only for learning purposes).</p>
 💬<p><b>Desktop Messaging App</b>: Developed a real-time desktop messaging application with Electron.js, Node.js, and MQTT, enabling seamless communication for thousands of users.</p>
