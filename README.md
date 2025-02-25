@@ -1,5 +1,7 @@
 <h2> Hey, I am Ishwar Rimal 👋 </h2>
 
+<b>Check your fronend expertise with this [quiz](https://ishwarrimal.github.io/javascript-quiz/)<b>
+
 <p>I'm a <a href="https://productengineer.org/">product engineer</a> based out of Bangalore with 9 years of experience building websites and web apps.</p>
 <p>
   <a href="https://www.linkedin.com/in/ishwar-rimal-319647b3/"><img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Badge"></a> 
