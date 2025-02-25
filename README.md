@@ -1,6 +1,6 @@
 <h2> Hey, I am Ishwar Rimal 👋 </h2>
 
-<p>I'm a <a href="https://productengineer.org/">product engineer</a> based out of Bangalore with 8 years of experience building websites and web apps.</p>
+<p>I'm a <a href="https://productengineer.org/">product engineer</a> based out of Bangalore with 9 years of experience building websites and web apps.</p>
 <p>
   <a href="https://www.linkedin.com/in/ishwar-rimal-319647b3/"><img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Badge"></a> 
   <a href="https://ishwar-rimal.medium.com/"><img width="30px" src="https://github.com/ishwarrimal/ishwarrimal/assets/17489662/b143698d-a74c-4988-ae74-59b3da8bc781" alt="Medium Badge"></a> 
@@ -10,9 +10,10 @@
 </p>
 
 <h3>Organizaiton</h3>
-<p>I am currently working at <a href="https://www.intuit.com/in/">Intuit</a> as a <strong>Senior Frontend Engineer</strong>. 
+<p>Currently I am working at an Austria based early stage startup as a <strong>Fullstack Engineer</strong> with following tech stacks: <strong>React | NestJS | PostgrsSQL | Azure and Open AI llm services</strong>.
   
-Previously I have worked at companies like [Simpl](https://getsimpl.com/), [Cleartrip](https://www.cleartrip.com/), [PayPal](https://www.paypal.com/in/home) and [Vyapar](https://vyaparapp.in/)</strong>.
+Previously I have worked at companies like [Intuit India](https://www.intuit.com/), [Simpl](https://getsimpl.com/), [Cleartrip](https://www.cleartrip.com/), [PayPal](https://www.paypal.com/in/home).
+I have worked as a founding engineer at [Vyapar](https://vyaparapp.in/)</strong> and played a key role in taking product from concept to market ready solution.
 
 
 <h3>Current side project</h3>
