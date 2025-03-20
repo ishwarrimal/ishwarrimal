@@ -2,7 +2,8 @@
 
 <b>Check your fronend expertise with this [quiz](https://ishwarrimal.github.io/javascript-quiz/)<b>
 
-<p>I'm a <a href="https://productengineer.org/">product engineer</a> based out of Bangalore with 9 years of experience building websites and web apps.</p>
+<p>I'm a <a href="https://productengineer.org/">product engineer</a> who is currently in <a href='https://lovable.dev/blog/what-is-vibe-coding'>Vibe coding</a> mode.
+I am based out of Bangalore with 9 years of experience building websites and web apps.</p>
 <p>
   <a href="https://www.linkedin.com/in/ishwar-rimal-319647b3/"><img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Badge"></a> 
   <a href="https://ishwar-rimal.medium.com/"><img width="30px" src="https://github.com/ishwarrimal/ishwarrimal/assets/17489662/b143698d-a74c-4988-ae74-59b3da8bc781" alt="Medium Badge"></a> 
